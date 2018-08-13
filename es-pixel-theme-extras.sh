@@ -222,13 +222,13 @@ function uninstall_launching_images() {
 
 
 function install_splashscreen() {
-    echo "> Installing '$THEME' theme launching images ..."
+    echo "> Installing '$THEME' theme splashscreen ..."
     choose_splashscreen
 }
 
 
 function uninstall_splashscreen() {
-    echo "> Uninstalling '$THEME' theme launching images ..."
+    echo "> Uninstalling '$THEME' theme splashscreen ..."
     remove_splashscreen
 }
 

@@ -21,3 +21,29 @@ sudo ./es-pixel-theme-extras.sh [OPTIONS]
 
 * `--install`: Install extras (Retropie menu icons, boot splashscreen and launching images).
 * `--uninstall`: Uninstall extras.
+
+## Examples
+
+### `--install`
+
+Install extras (Retropie menu icons, boot splashscreen and launching images).
+
+`sudo ./es-pixel-theme-extras.sh --install`
+
+### `--uninstall`
+
+Uninstall extras.
+
+`sudo ./es-pixel-theme-extras.sh --uninstall`
+
+## Changelog
+
+See [CHANGELOG](/CHANGELOG.md).
+
+## Authors
+
+Me 😛[@hiulit](https://github.com/hiulit).
+
+## License
+
+See [MIT License](/LICENSE).

@@ -27,7 +27,7 @@ readonly DEFAULT_THEME="pixel"
 # Global variables
 THEME="$DEFAULT_THEME"
 readonly THEME_ICONS_DIR="$ES_THEMES_DIR/$THEME/retropie/icons"
-readonly GIT_THEME_LAUNCHING_IMAGES="https://github.com/ehettervik/es-runcommand-splash.git"
+readonly GIT_THEME_LAUNCHING_IMAGES="https://github.com/hiulit/es-runcommand-splash.git"
 readonly TMP_LAUNCHING_IMAGES_DIR="$TMP/$THEME-launching-images"
 
 
